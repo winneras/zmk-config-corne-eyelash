@@ -291,9 +291,9 @@ layers:
   - {t: '$$mdi:keyboard-tab$$', h: '$$mdi:apple-keyboard-control$$'}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:keyboard-return$$', h: SYM}
+  - {t: '$$mdi:keyboard-space$$', h: NUM}
+  - {t: '$$mdi:backspace$$', h: FUNC}
 combos:
 - p: [17, 18]
   k: (
