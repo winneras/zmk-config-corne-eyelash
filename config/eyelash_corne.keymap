@@ -90,36 +90,43 @@
         par_r {
             bindings = <&kp RPAR>;
             key-positions = <23 22>;
+            layers = <0 5>;
         };
 
         bkt_l {
             bindings = <&kp LEFT_BRACKET>;
             key-positions = <4 5>;
+            layers = <0 5>;
         };
 
         bkt_r {
             bindings = <&kp RBKT>;
             key-positions = <7 8>;
+            layers = <0 5>;
         };
 
         brc_l {
             bindings = <&kp LBRC>;
             key-positions = <33 32>;
+            layers = <0 5>;
         };
 
         brc_r {
             bindings = <&kp RBRC>;
             key-positions = <36 37>;
+            layers = <0 5>;
         };
 
         del_l {
             bindings = <&kp DEL>;
             key-positions = <29 30>;
+            layers = <0 5>;
         };
 
         del_r {
             bindings = <&kp DEL>;
             key-positions = <39 40>;
+            layers = <0 5>; 
         };
 
         to_win {
