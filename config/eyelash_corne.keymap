@@ -84,6 +84,7 @@
         par_l {
             bindings = <&kp LPAR>;
             key-positions = <17 18>;
+            layers = <0 5>;
         };
 
         par_r {
@@ -124,11 +125,13 @@
         to_win {
             bindings = <&to 5>;
             key-positions = <45 46 47>;
+            layers = <0 5>;
         };
 
         to_mac {
             bindings = <&to 0>;
             key-positions = <42 43 44>;
+            layers = <0 5>;
         };
     };
 
