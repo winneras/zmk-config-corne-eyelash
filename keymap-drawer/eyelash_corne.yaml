@@ -297,21 +297,31 @@ layers:
 combos:
 - p: [17, 18]
   k: (
+  l: [MAC, WIN]
 - p: [23, 22]
   k: )
+  l: [MAC, WIN]
 - p: [4, 5]
   k: {t: '[', s: '{'}
+  l: [MAC, WIN]
 - p: [7, 8]
   k: {t: ']', s: '}'}
+  l: [MAC, WIN]
 - p: [33, 32]
   k: '{'
+  l: [MAC, WIN]
 - p: [36, 37]
   k: '}'
+  l: [MAC, WIN]
 - p: [29, 30]
   k: $$mdi:backspace-reverse-outline$$
+  l: [MAC, WIN]
 - p: [39, 40]
   k: $$mdi:backspace-reverse-outline$$
+  l: [MAC, WIN]
 - p: [45, 46, 47]
   k: {t: WIN, h: toggle}
+  l: [MAC, WIN]
 - p: [42, 43, 44]
   k: {t: MAC, h: toggle}
+  l: [MAC, WIN]
