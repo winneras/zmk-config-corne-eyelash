@@ -321,7 +321,7 @@ combos:
   l: [MAC, WIN]
 - p: [45, 46, 47]
   k: {t: WIN, h: toggle}
-  l: [MAC, WIN]
+  l: [MAC]
 - p: [42, 43, 44]
   k: {t: MAC, h: toggle}
-  l: [MAC, WIN]
+  l: [WIN]
