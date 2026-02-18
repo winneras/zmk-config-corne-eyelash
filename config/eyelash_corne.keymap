@@ -132,13 +132,13 @@
         to_win {
             bindings = <&to 5>;
             key-positions = <45 46 47>;
-            layers = <0 5>;
+            layers = <0>;
         };
 
         to_mac {
             bindings = <&to 0>;
             key-positions = <42 43 44>;
-            layers = <0 5>;
+            layers = <5>;
         };
     };
 
